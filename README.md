@@ -15,7 +15,7 @@ Email Me 👉 ✉️ snehalthombare888@example.com For Collaboration/Project or 
 
 ## 🏆 Competitive Profiles
 - 💙 Codeforces: https://codeforces.com/profile/snehal08_coder
-- 🍛 CodeChef: https://www.codechef.com/users/snehal-thombare08
+- 🍛 CodeChef:https://www.codechef.com/users/s_thombare08
 - 💛 LeetCode: https://leetcode.com/snehal-thombare08
   
 
