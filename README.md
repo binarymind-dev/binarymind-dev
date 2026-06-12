@@ -19,7 +19,7 @@ Email Me 👉 ✉️ snehalthombare888@gmail.com For Collaboration/Project or An
 - ⚡ *Fun fact:* I love solving coding problems and participating in coding contests 😎
 
 ## 🏆 Competitive Profiles
-- 💙 Codeforces: https://codeforces.com/profile/snehal08_coder
+- 💙 Codeforces: https://codeforces.com/profile/snehal07_coder
 - 🍛 CodeChef: https://www.codechef.com/users/s_thombare08
 - 💛 LeetCode: https://leetcode.com/u/snehalthombare08/
 
