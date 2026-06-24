@@ -23,8 +23,8 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 - 💛 LeetCode: https://leetcode.com/u/binarymind-dev/
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/snehal-thombare08) [![LinkedIn](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/snehal-thombare08) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/snehal-thombare08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binarymind24@gmail.com)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://snehal-unfiltered.blogspot.com/)
+
 # 🚀 Featured Projects
 
 ## 🤖 AI Code Reviewer
