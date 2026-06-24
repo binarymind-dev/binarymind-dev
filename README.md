@@ -1,6 +1,6 @@
 # ⌁ Binary Mind
 
-A backend developer who debugs by day and dreams in algorithms by night.
+**A backend developer who debugs by day and dreams in algorithms by night.
 CSE Student || Competitive Programmer || AI Enthusiast from India 🇮🇳
 
 <div align="right">
