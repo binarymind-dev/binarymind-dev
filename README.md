@@ -9,7 +9,8 @@ CSE Student || Competitive Programmer || AI Enthusiast from India 🇮🇳
 
 </div>
 
-**A passionate CSE Student || Competitive Programmer || AI Enthusiast from India 🇮🇳**
+**A backend developer who debugs by day and dreams in algorithms by night.
+CSE Student || Competitive Programmer || AI Enthusiast from India 🇮🇳**
 
 Email Me 👉 ✉️ snehalthombare888@gmail.com For Collaboration/Project or Anything Else. 😊
 
