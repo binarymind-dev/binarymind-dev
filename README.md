@@ -20,7 +20,8 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 - ⚡ *Fun fact:* I love solving coding problems and participating in coding contests 😎
 
 ## 🏆 Competitive Profiles
-- 💛 LeetCode: https://leetcode.com/u/binarymind-dev/
+- LeetCode: https://leetcode.com/u/binarymind-dev/
+- Codechef: https://www.codechef.com/users/s_thombare08
 
 ## 🌐 Socials:
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://snehal-unfiltered.blogspot.com/)
