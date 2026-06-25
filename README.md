@@ -21,6 +21,8 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 
 ## 🏆 Competitive Profiles
 - LeetCode: https://leetcode.com/u/binarymind-dev/
+- Codechef:https://www.codechef.com/users/s_thombare08
+- Codeforce:https://codeforces.com/profile/snehal07-coder
 
 ## 🌐 Socials:
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://snehal-unfiltered.blogspot.com/)
