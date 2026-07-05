@@ -12,7 +12,7 @@ CSE Student || Competitive Programmer || AI Enthusiast from India 🇮🇳**
 Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anything Else. 😊
 
 - 🔭 *I'm currently working on:* AI Code Reviewer & AI Resume Reviewer
-- 🌱 *I'm currently learning:* DSA, Competitive Programming, AI/ML & System Design
+- 🌱 *I'm currently learning:* DSA, Competitive Programming,MERN Stack & System Design
 - 👯 *I'm looking to collaborate on:* AI Projects & Open Source
 - 🤔 *I'm looking for help with:* Advanced Competitive Programming & Development
 - 💬 *Ask me about:* DSA, Codeforces, CodeChef, AI & Tech
