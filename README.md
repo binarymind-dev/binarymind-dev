@@ -1,5 +1,5 @@
 
-<h1 align="center">⌁ Hi, I'm Snehal (Binary Mind) 👋</h1>
+<h1 align="center">⌁Binary Mind 👋</h1>
  
 <p align="center">
 Backend Developer | Competitive Programmer | AI Enthusiast 🚀
