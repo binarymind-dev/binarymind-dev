@@ -70,11 +70,7 @@ Backend Developer | Competitive Programmer | AI Enthusiast 🚀
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.codechef.com/users/s_thombare08">
-    <img src="https://codechef-readme-stats.onrender.com/s_thombare08?v=1" alt="CodeChef Profile" width="70%"/>
-  </a>
-</p>
+[![CodeChef](https://img.shields.io/badge/CodeChef-s__thombare08-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/s_thombare08)
 
 <p align="center">
   <a href="https://leetcode.com/u/binarymind-dev/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
