@@ -1,4 +1,4 @@
-div align="center">
+
 # ⌁ Binary Mind
  
 **Backend Developer · Competitive Programmer · AI Enthusiast**
