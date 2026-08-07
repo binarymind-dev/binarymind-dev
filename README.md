@@ -61,6 +61,10 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=binarymind-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchalitorpe13&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=A855F7&point=FFFFFF"/>
+</div>
+
+<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
