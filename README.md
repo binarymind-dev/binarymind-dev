@@ -68,6 +68,10 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchalitorpe13&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=A855F7&point=FFFFFF"/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=binarymind-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
