@@ -27,6 +27,8 @@ Email Me 👉 ✉️ snehalthombare888@gmail.com For Collaboration/Project or An
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/binarymind-dev)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32765507/snehal-thombare)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/Binary-Mind-3)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat\&logo=blogger\&logoColor=white)](https://snehal-unfiltered.blogspot.com/)
+
 
 # 🚀 Featured Projects
 
