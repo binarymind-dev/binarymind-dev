@@ -30,25 +30,6 @@ Email Me 👉 ✉️ snehalthombare888@gmail.com For Collaboration/Project or An
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat\&logo=blogger\&logoColor=white)](https://snehal-unfiltered.blogspot.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://www.youtube.com/results?search_query=Think+with+Shamani)
 
-
-
-# 🚀 Featured Projects
-
-## 🤖 AI Code Reviewer
-- AI powered code analysis platform
-- MERN + Gemini API
-- Real-time suggestions and improvements
-
-## 📄 AI Resume Reviewer
-- ATS score analysis
-- Resume feedback using AI
-- PDF parsing support
-
-## 💻 DSA Repository
-- LeetCode + Codeforces solutions
-- Topic-wise DSA problems
-- Competitive programming practice
-
 ## 🌍 Open Source Contributions
 | Repository | Contribution | Status |
 |------------|-------------|--------|
