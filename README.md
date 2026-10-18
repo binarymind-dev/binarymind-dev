@@ -1,4 +1,4 @@
-<h1>⌁Loading...</h1>
+<h1>⌁Binary Mind</h1>
 <div align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binarymind-dev&color=blueviolet&style=flat-square&label=Profile+Views)
